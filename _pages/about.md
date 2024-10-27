@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Postdoctoral Fellow at the College of Computing and Data Science, Nanyang Technological University (NTU), Singapore, working under the supervision of Prof. [Dusit Niyato](https://personal.ntu.edu.sg/dniyato/). My research interests primarily focus on wireless sensing, Integrated Sensing and Communications (ISAC), generative AI, and semantic communications.
 
-Prior to my current position, I received my Ph.D. degree from the School of Communications and Information Engineering, Chongqing University of Posts and Telecommunications in 2022. During my doctoral studies, I spent a year (2021-2022) as a visiting student at NTU's College of Computing and Data Science.
+Prior to my current position, I received my Ph.D. degree from the School of Communications and Information Engineering, Chongqing University of Posts and Telecommunications in 2022. From 2021 to 2022, I was a visiting student at NTU's College of Computing and Data Science.
 
 My research primarily centers around **Wireless Sensing and Generative AI**. Our key objectives include:
 
