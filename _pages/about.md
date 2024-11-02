@@ -54,14 +54,10 @@ https://www.comsoc.org/publications/journals/ieee-lnet/cfp/generative-ai-and-lar
 
 News
 ======
-1. **Call for Papers:**
-   - IEEE Open Journal of the Communications Society Special Issue on ["Generative AI and Large Language Models Enhanced 6G Wireless Communication and Sensing"](https://www.comsoc.org/publications/journals/ieee-ojcoms/cfp/generative-ai-and-large-language-models-enhanced-6g-wireless)
-2. **Call for Papers:**
-   -IEEE Networking Letters Special Issue on ["Generative AI and Large Language Models-enabled Edge Intelligence"](https://www.comsoc.org/publications/journals/ieee-lnet/cfp/generative-ai-and-large-language-models-enabled-edge)
-3. **Call for Papers:**
-   - IEEE IoT Magazine Special Issue on ["Applications of Large Language Models in Internet of Things"](https://www.comsoc.org/publications/magazines/ieee-internet-things-magazine/cfp/applications-large-language-models
-4. **Call for Papers:**
-   - MDPI Electronics Special Issue on ["Network Security Management in Heterogeneous Networks"](https://www.mdpi.com/journal/electronics/special_issues/IL4N9306O0)
+1. **Call for Papers:** IEEE Open Journal of the Communications Society Special Issue on ["Generative AI and Large Language Models Enhanced 6G Wireless Communication and Sensing"](https://www.comsoc.org/publications/journals/ieee-ojcoms/cfp/generative-ai-and-large-language-models-enhanced-6g-wireless)
+2. **Call for Papers:** IEEE Networking Letters Special Issue on ["Generative AI and Large Language Models-enabled Edge Intelligence"](https://www.comsoc.org/publications/journals/ieee-lnet/cfp/generative-ai-and-large-language-models-enabled-edge)
+3. **Call for Papers:** IEEE IoT Magazine Special Issue on ["Applications of Large Language Models in Internet of Things"](https://www.comsoc.org/publications/magazines/ieee-internet-things-magazine/cfp/applications-large-language-models)
+4. **Call for Papers:** MDPI Electronics Special Issue on ["Network Security Management in Heterogeneous Networks"](https://www.mdpi.com/journal/electronics/special_issues/IL4N9306O0)
 
 Education
 ======
