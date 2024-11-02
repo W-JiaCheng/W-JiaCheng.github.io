@@ -50,31 +50,18 @@ Selected First-author Papers
 
 11. **Jiacheng Wang**, Zengshan Tian, Xiaolong Yang, and Mu Zhou. ["TWPalo: Through-the-wall Passive Localization of Moving Human with Wi-Fi,"](https://www.sciencedirect.com/science/article/pii/S0140366419310576) **Computer Communications**, vol. 157, pp. 284-297, May. 2020.
 
+https://www.comsoc.org/publications/journals/ieee-lnet/cfp/generative-ai-and-large-language-models-enabled-edge
 
-
-Academic Services
+News
 ======
-1. **Lead Guest Editor:**
-   - IEEE Open Journal of the Communications Society Special Issue on  ["Generative AI and Large Language Models Enhanced 6G Wireless Communication and Sensing"](https://www.comsoc.org/publications/journals/ieee-ojcoms/cfp/generative-ai-and-large-language-models-enhanced-6g-wireless)
-   - 
-2. **Guest Editor:**
-   - IEEE Networking Letters Special Issue on "Generative AI and Large Language Models-enabled Edge Intelligence"
-   - IEEE IoT Magazine Special Issue on "Applications of Large Language Models in Internet of Things"
-   - MDPI Electronics Special Issue on "Network Security Management in Heterogeneous Networks"
-
-4. **Lead Contributor:**
-   - IEEE ComSoc Best Readings "Generative AI and Large Language Models for Networking"
-
-5. **Conference Services:**
-   - Tutorial Speaker, "Generative Artificial Intelligence-empowered Networks: Optimization and Applications", 2024 IEEE ICCC
-   - Web Chair, IEEE International Conference on Internet of Things (iThings 2023)
-   - Publication Chair, IEEE International Conference on Metaverse (Metaverse 2024)
-   - TPC Member: IEEE ICC, Globecom, PIMRC, WCNC, VTC, ICCC
-
-6. **Journal Reviewer:**
-   - IEEE COMST, JSAC, TMC, TIFS, TC, TWC, TVT, TCCN, WCM, NETWORK, WCL
-
----
+1. **Call for Papers:**
+   - IEEE Open Journal of the Communications Society Special Issue on ["Generative AI and Large Language Models Enhanced 6G Wireless Communication and Sensing"](https://www.comsoc.org/publications/journals/ieee-ojcoms/cfp/generative-ai-and-large-language-models-enhanced-6g-wireless)
+2. **Call for Papers:**
+   -IEEE Networking Letters Special Issue on ["Generative AI and Large Language Models-enabled Edge Intelligence"](https://www.comsoc.org/publications/journals/ieee-lnet/cfp/generative-ai-and-large-language-models-enabled-edge)
+3. **Call for Papers:**
+   - IEEE IoT Magazine Special Issue on ["Applications of Large Language Models in Internet of Things"](https://www.comsoc.org/publications/magazines/ieee-internet-things-magazine/cfp/applications-large-language-models
+4. **Call for Papers:**
+   - MDPI Electronics Special Issue on ["Network Security Management in Heterogeneous Networks"](https://www.mdpi.com/journal/electronics/special_issues/IL4N9306O0)
 
 Education
 ======
