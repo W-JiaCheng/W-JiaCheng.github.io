@@ -43,8 +43,5 @@ redirect_from:
   * Web Chair - IEEE International Conference on Internet of Things (iThings 2023)
   * Publication Chair - IEEE International Conference on Metaverse (Metaverse 2024)
   * Committee Member - 21st Huacheng Academician Forum and 4th International Conference on Computer Engineering and Intelligent Control
-
-## Tutorial Speaker
-* "Generative Artificial Intelligence-empowered Networks: Optimization and Applications"
-  * 2024 IEEE International Conference on Computer Communications (ICCC)
-  * August 2024, Hangzhou, China
+3. **Tutorial Speaker:**
+* "Generative Artificial Intelligence-empowered Networks: Optimization and Applications", 2024 IEEE International Conference on Computer Communications (ICCC), August 2024, Hangzhou, China.
