@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Fellow at the College of Computing and Data Science, Nanyang Technological University (NTU), Singapore, working under the supervision of Prof. [Dusit Niyato](https://personal.ntu.edu.sg/dniyato/). My research interests primarily focus on wireless sensing, Integrated Sensing and Communications (ISAC), generative AI, and semantic communications. Prior to my current position, I received my Ph.D. degree from the School of Communications and Information Engineering, Chongqing University of Posts and Telecommunications in 2022. From 2021 to 2022, I was a visiting student at NTU's College of Computing and Data Science. My research primarily centers around **Wireless Sensing and Generative AI**, including
+I am a Postdoctoral Research Fellow at the College of Computing and Data Science, Nanyang Technological University (NTU), Singapore, working under the supervision of Prof. [Dusit Niyato](https://personal.ntu.edu.sg/dniyato/). My research interests primarily focus on wireless sensing, Integrated Sensing and Communications (ISAC), generative AI, and semantic communications. Prior to my current position, I received my Ph.D. degree from the School of Communications and Information Engineering, Chongqing University of Posts and Telecommunications in 2022. From 2021 to 2022, I was a visiting student at NTU's College of Computing and Data Science. My research primarily centers around **Wireless Sensing and Generative AI**, including
 
 1. Wireless Sensing:
    - Signal parameter estimation for wireless sensing
@@ -60,7 +60,7 @@ Selected Collaborative Papers
 
 3. Nguyen Van Huynh, **Jiacheng Wang**, Hongyang Du, Dinh Thai Hoang, Dusit Niyato, Diep N Nguyen, Dong In Kim, Khaled B Letaief. ["Generative AI for physical layer communications: A survey,"](https://ieeexplore.ieee.org/document/10490142) **IEEE Transactions on Cognitive Communications and Networking (TCCN)**, vol. 10, no. 3, pp. 706-728, Jun. 2024.
 
-4. Hongyang Du, **Jiacheng Wang**, Dusit Niyato, Jiawen Kang, Zehui Xiong, Mohsen Guizani, and Dong In Kim. ["Rethinking Wireless Communication Security in Semantic Internet of Things,"](https://ieeexplore.ieee.org/document/10183798) IEEE Wireless Communications, vol. 30, pp. 36-43, Jun. 2023.
+4. Hongyang Du, **Jiacheng Wang**, Dusit Niyato, Jiawen Kang, Zehui Xiong, Mohsen Guizani, and Dong In Kim. ["Rethinking Wireless Communication Security in Semantic Internet of Things,"](https://ieeexplore.ieee.org/document/10183798) **IEEE Wireless Communications**, vol. 30, pp. 36-43, Jun. 2023.
 
 News
 ======
