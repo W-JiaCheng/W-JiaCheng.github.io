@@ -46,7 +46,21 @@ Selected First-author Papers
 
 11. **Jiacheng Wang**, Zengshan Tian, Xiaolong Yang, and Mu Zhou. ["TWPalo: Through-the-wall Passive Localization of Moving Human with Wi-Fi,"](https://www.sciencedirect.com/science/article/pii/S0140366419310576) **Computer Communications**, vol. 157, pp. 284-297, May. 2020.
 
-https://www.comsoc.org/publications/journals/ieee-lnet/cfp/generative-ai-and-large-language-models-enabled-edge
+12. **Jiacheng Wang**, Zengshan Tian, Xiaolong Yang, Mu Zhou, and Yuan She. ["TWPad: Through the Wall Passive Human Detection Based on Joint Hypothesis Statistical Test,"](https://ieeexplore.ieee.org/document/9500695). In Proc. IEEE International Conference on Communications (ICC), Jun. 2021.
+
+13. **Jiacheng Wang**, Zengshan Tian, Xiaolong Yang, and Mu Zhou. ["TWPalo: Through-the-Wall Passive Localization of Moving Human with Wi-Fi,"](https://ieeexplore.ieee.org/document/9013293) In Proc. IEEE Global Communications Conference (GLOBECOM), Dec. 2019. 
+
+14. **Jiacheng Wang**, Zengshan Tian, Xiaolong Yang, Mu Zhou, Jiamin Huang, and Dusit Niyato. ["Dynamic Target Acceleration Estimation Using CSI,"](https://ieeexplore.ieee.org/document/9860560) In Proc. IEEE Vehicular Technology Conference: (VTC2022-Spring), Jun. 2022.
+
+Selected Collaborative Papers
+======
+1. Hongyang Du, **Jiacheng Wang**, Dusit Niyato, Jiawen Kang, Zehui Xiong, and Dong In Kim. ["AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for Information Sharing,"](https://ieeexplore.ieee.org/document/10158526) **IEEE Journal on Selected Areas in Communications (JSAC)**, vol. 41, no. 9, pp. 2981-2997, Sep. 2023.
+
+2. Hongyang Du, **Jiacheng Wang**, Dusit Niyato, Jiawen Kang, Zehui Xiong, Junshan Zhang, and Xuemin (Sherman) Shen. ["Semantic Communications for Wireless Sensing: RIS-aided Encoding and Self-supervised Decoding,"](https://ieeexplore.ieee.org/document/10163877) **IEEE Journal on Selected Areas in Communications (JSAC)**, vol. 41, no. 8, pp. 2547-2562, Aug. 2023.
+
+3. Nguyen Van Huynh, **Jiacheng Wang**, Hongyang Du, Dinh Thai Hoang, Dusit Niyato, Diep N Nguyen, Dong In Kim, Khaled B Letaief. ["Generative AI for physical layer communications: A survey,"](https://ieeexplore.ieee.org/document/10490142) **IEEE Transactions on Cognitive Communications and Networking (TCCN)**, vol. 10, no. 3, pp. 706-728, Jun. 2024.
+
+4. Hongyang Du, **Jiacheng Wang**, Dusit Niyato, Jiawen Kang, Zehui Xiong, Mohsen Guizani, and Dong In Kim. ["Rethinking Wireless Communication Security in Semantic Internet of Things,"](https://ieeexplore.ieee.org/document/10183798) IEEE Wireless Communications, vol. 30, pp. 36-43, Jun. 2023.
 
 News
 ======
