@@ -22,6 +22,14 @@ I am a Postdoctoral Research Fellow at the College of Computing and Data Science
 
 ---
 
+News
+======
+1. **Call for Papers:** IEEE Open Journal of the Communications Society Special Issue on ["Generative AI and Large Language Models Enhanced 6G Wireless Communication and Sensing"](https://www.comsoc.org/publications/journals/ieee-ojcoms/cfp/generative-ai-and-large-language-models-enhanced-6g-wireless)
+2. **Call for Papers:** IEEE Networking Letters Special Issue on ["Generative AI and Large Language Models-enabled Edge Intelligence"](https://www.comsoc.org/publications/journals/ieee-lnet/cfp/generative-ai-and-large-language-models-enabled-edge)
+3. **Call for Papers:** IEEE IoT Magazine Special Issue on ["Applications of Large Language Models in Internet of Things"](https://www.comsoc.org/publications/magazines/ieee-internet-things-magazine/cfp/applications-large-language-models)
+4. **Call for Papers:** MDPI Electronics Special Issue on ["Network Security Management in Heterogeneous Networks"](https://www.mdpi.com/journal/electronics/special_issues/IL4N9306O0)
+
+
 Selected First-author Papers
 ======
 1. **Jiacheng Wang**, Hongyang Du, Dusit Niyato, Zehui Xiong, Jiawen Kang, Bo Ai, Zhu Han, and Dong In Kim. ["Generative Artificial Intelligence Assisted Wireless Sensing: Human Flow Detection in Practical Communication Environments,"](https://ieeexplore.ieee.org/document/10557650) **IEEE Journal on Selected Areas in Communications (JSAC)**, accepted, 2024.
@@ -70,11 +78,5 @@ Selected Collaborative Papers
 
 7. Shuang Liang, Minghao Yin, Geng Sun, Jiahui Li, Hongjuan Li, **Jiacheng Wang**, Dusit Niyato, Victor CM Leung. ["Cooperative Communication Via Automated Guided Vehicle and Unmanned Aerial Vehicle: A Distributed Collaborate Beamforming Method,"](https://ieeexplore.ieee.org/document/10660542) **IEEE Transactions on Intelligent Vehicles**, Early Access, 2024.
 
-News
-======
-1. **Call for Papers:** IEEE Open Journal of the Communications Society Special Issue on ["Generative AI and Large Language Models Enhanced 6G Wireless Communication and Sensing"](https://www.comsoc.org/publications/journals/ieee-ojcoms/cfp/generative-ai-and-large-language-models-enhanced-6g-wireless)
-2. **Call for Papers:** IEEE Networking Letters Special Issue on ["Generative AI and Large Language Models-enabled Edge Intelligence"](https://www.comsoc.org/publications/journals/ieee-lnet/cfp/generative-ai-and-large-language-models-enabled-edge)
-3. **Call for Papers:** IEEE IoT Magazine Special Issue on ["Applications of Large Language Models in Internet of Things"](https://www.comsoc.org/publications/magazines/ieee-internet-things-magazine/cfp/applications-large-language-models)
-4. **Call for Papers:** MDPI Electronics Special Issue on ["Network Security Management in Heterogeneous Networks"](https://www.mdpi.com/journal/electronics/special_issues/IL4N9306O0)
 
 
