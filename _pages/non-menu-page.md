@@ -9,6 +9,7 @@ redirect_from:
 ## Editorial Service
 1. **Lead Guest Editor:**
    - IEEE Open Journal of the Communications Society Special Issue on ["Generative AI and Large Language Models Enhanced 6G Wireless Communication and Sensing"](https://www.comsoc.org/publications/journals/ieee-ojcoms/cfp/generative-ai-and-large-language-models-enhanced-6g-wireless)
+   - IEEE Transactions on Cognitive Communications and Networking Special Issue on ["Artificial General Intelligence for Low-Altitude Economy Networking"](https://www.comsoc.org/publications/journals/ieee-tccn/cfp/artificial-general-intelligence-low-altitude-economy-networking)
     
 2. **Guest Editor:**
    - IEEE Networking Letters Special Issue on ["Generative AI and Large Language Models-enabled Edge Intelligence"](https://www.comsoc.org/publications/journals/ieee-lnet/cfp/generative-ai-and-large-language-models-enabled-edge)
