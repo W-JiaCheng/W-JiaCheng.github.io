@@ -73,11 +73,13 @@ Selected Collaborative Papers
 
 4. Hongyang Du, **Jiacheng Wang**, Dusit Niyato, Jiawen Kang, Zehui Xiong, Mohsen Guizani, and Dong In Kim. ["Rethinking Wireless Communication Security in Semantic Internet of Things,"](https://ieeexplore.ieee.org/document/10183798) **IEEE Wireless Communications**, vol. 30, no. 3, pp. 36-43, Nov. 2023.
 
-5. Hongyang Du, **Jiacheng Wang**, Dusit Niyato, Jiawen Kang, Zehui Xiong, Xuemin Shen, Dong In Kim. ["Exploring attention-aware network resource allocation for customized metaverse services,"](https://ieeexplore.ieee.org/document/9999298) **IEEE Network**, vol. 37, no. 6, pp. 166-175, Jun. 2023.
+5. Chuang Zhang, Geng Sun, Jiahui Li, Qingqing Wu, **Jiacheng Wang**, Dusit Niyato, Yuanwei Liu. ["Multi-objective Aerial Collaborative Secure Communication Optimization via Generative Diffusion Model-enabled Deep Reinforcement Learning,"](https://arxiv.org/pdf/2407.08914) *IEEE Transactions on Mobile Computing (TMC)*, accepted, 2024.
 
-6. Kaikai Liu, Zengshan Tian, Ze Li, **Jiacheng Wang**, Mu Zhou. ["HiLoc: Sub-meter level indoor localization using a single access point with distributed antennas in wireless sensor networks,"](https://ieeexplore.ieee.org/document/9312625) **IEEE Sensors Journal**, vol. 22, no. 6, pp. 4869-4881, Mar. 2022.
+6. Hongyang Du, **Jiacheng Wang**, Dusit Niyato, Jiawen Kang, Zehui Xiong, Xuemin Shen, Dong In Kim. ["Exploring attention-aware network resource allocation for customized metaverse services,"](https://ieeexplore.ieee.org/document/9999298) **IEEE Network**, vol. 37, no. 6, pp. 166-175, Jun. 2023.
 
-7. Shuang Liang, Minghao Yin, Geng Sun, Jiahui Li, Hongjuan Li, **Jiacheng Wang**, Dusit Niyato, Victor CM Leung. ["Cooperative Communication Via Automated Guided Vehicle and Unmanned Aerial Vehicle: A Distributed Collaborate Beamforming Method,"](https://ieeexplore.ieee.org/document/10660542) **IEEE Transactions on Intelligent Vehicles**, Early Access, 2024.
+7. Kaikai Liu, Zengshan Tian, Ze Li, **Jiacheng Wang**, Mu Zhou. ["HiLoc: Sub-meter level indoor localization using a single access point with distributed antennas in wireless sensor networks,"](https://ieeexplore.ieee.org/document/9312625) **IEEE Sensors Journal**, vol. 22, no. 6, pp. 4869-4881, Mar. 2022.
+
+8. Shuang Liang, Minghao Yin, Geng Sun, Jiahui Li, Hongjuan Li, **Jiacheng Wang**, Dusit Niyato, Victor CM Leung. ["Cooperative Communication Via Automated Guided Vehicle and Unmanned Aerial Vehicle: A Distributed Collaborate Beamforming Method,"](https://ieeexplore.ieee.org/document/10660542) **IEEE Transactions on Intelligent Vehicles**, Early Access, 2024.
 
 
 
