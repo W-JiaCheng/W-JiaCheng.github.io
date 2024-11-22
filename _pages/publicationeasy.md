@@ -30,21 +30,25 @@
 
 14. Hongyang Du, **Jiacheng Wang**, Dusit Niyato, Jiawen Kang, Zehui Xiong, Junshan Zhang, and Xuemin (Sherman) Shen. "Semantic Communications for Wireless Sensing: RIS-aided Encoding and Self-supervised Decoding," *IEEE Journal on Selected Areas in Communications (JSAC)*, vol. 41, no. 8, pp. 2547-2562, Aug. 2023.
 
-15. Hongyang Du, **Jiacheng Wang**, Dusit Niyato, Jiawen Kang, Zehui Xiong, Mohsen Guizani, and Dong In Kim. "Rethinking Wireless Communication Security in Semantic Internet of Things," *IEEE Wireless Communications*, vol. 30, no. 3, pp. 36-43, Jun. 2023.
+15. Chuang Zhang, Geng Sun, Jiahui Li, Qingqing Wu, **Jiacheng Wang**, Dusit Niyato, Yuanwei Liu. "Multi-objective Aerial Collaborative Secure Communication Optimization via Generative Diffusion Model-enabled Deep Reinforcement Learning," *IEEE Transactions on Mobile Computing (TMC)*, accepted, 2024.
 
-16. Hongyang Du, **Jiacheng Wang**, Dusit Niyato, Jiawen Kang, Zehui Xiong, Xuemin (Sherman) Shen, and Dong In Kim. "Exploring Attention-aware Network Resource Allocation for Customized Metaverse Services," *IEEE Network*, vol. 37, no. 6, pp. 166-175, Dec. 2022.
+16. Hongyang Du, **Jiacheng Wang**, Dusit Niyato, Jiawen Kang, Zehui Xiong, Mohsen Guizani, and Dong In Kim. "Rethinking Wireless Communication Security in Semantic Internet of Things," *IEEE Wireless Communications*, vol. 30, no. 3, pp. 36-43, Jun. 2023.
 
-17. Hongyang Du†, Ruichen Zhang†, Yinqiu Liu†, **Jiacheng Wang**†, Yijing Lin†, Zonghang Li†, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shuguang (Robert) Cui, Bo Ai, Haibo Zhou, Dong In Kim. "Beyond deep reinforcement learning: A tutorial on generative diffusion models in network optimization," submitted to *IEEE Communications Surveys & Tutorials*, 2023.
+17. Hongyang Du, **Jiacheng Wang**, Dusit Niyato, Jiawen Kang, Zehui Xiong, Xuemin (Sherman) Shen, and Dong In Kim. "Exploring Attention-aware Network Resource Allocation for Customized Metaverse Services," *IEEE Network*, vol. 37, no. 6, pp. 166-175, Dec. 2022.
 
-18. Yijing Lin, Zhipeng Gao, Hongyang Du, Dusit Niyato, Jiawen Kang, Yulan Gao, **Jiacheng Wang**, and Abbas Jamalipour. "Blockchain-based Semantic Information Sharing and Pricing for Web 3.0," *IEEE Transactions on Network Science and Engineering*, accepted, 2023.
+18. Hongyang Du†, Ruichen Zhang†, Yinqiu Liu†, **Jiacheng Wang**†, Yijing Lin†, Zonghang Li†, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shuguang (Robert) Cui, Bo Ai, Haibo Zhou, Dong In Kim. "Beyond deep reinforcement learning: A tutorial on generative diffusion models in network optimization," submitted to *IEEE Communications Surveys & Tutorials*, 2023.
 
-19. Nguyen Van Huynh, **Jiacheng Wang**, Hongyang Du, Dinh Thai Hoang, Dusit Niyato, Diep N. Nguyen, Dong In Kim, and Khaled B. Letaief. "Generative AI for Physical Layer Communications: A Survey," *IEEE Transactions on Cognitive Communications and Networking (TCCN)*, vol. 10, no. 3, pp. 706-728, Jun. 2024.
+19. Yijing Lin, Zhipeng Gao, Hongyang Du, Dusit Niyato, Jiawen Kang, Yulan Gao, **Jiacheng Wang**, and Abbas Jamalipour. "Blockchain-based Semantic Information Sharing and Pricing for Web 3.0," *IEEE Transactions on Network Science and Engineering*, accepted, 2023.
 
-20. S Liang, M Yin, G Sun, J Li, H Li, J Wang, D Niyato, VCM Leung. "Cooperative Communication Via Automated Guided Vehicle and Unmanned Aerial Vehicle: A Distributed Collaborate Beamforming Method," *IEEE Transactions on Intelligent Vehicles*.
+20. Vinay Chamola, Gaurang Bansal, Tridib Kumar Das, Vikas Hassija, Siva Sai, **Jiacheng Wang**, Sherali Zeadally, Amir Hussain, Fei Richard Yu, Mohsen Guizani, Dusit Niyato. "Beyond reality: The pivotal role of generative AI in the metaverse," *IEEE Internet of Things Magazine*, vol. 7, no. 4, pp. 126-135, Jun. 2024.
 
-21. Kaikai Liu, Zengshan Tian, Ze Li, **Jiacheng Wang**, and Mu Zhou. "HiLoc: Sub-meter level indoor localization using a single access point with distributed antennas in wireless sensor networks," *IEEE Sensors Journal*, vol. 22, no. 6, pp. 4869-4881, Mar. 2022.
+21. Nguyen Van Huynh, **Jiacheng Wang**, Hongyang Du, Dinh Thai Hoang, Dusit Niyato, Diep N. Nguyen, Dong In Kim, and Khaled B. Letaief. "Generative AI for Physical Layer Communications: A Survey," *IEEE Transactions on Cognitive Communications and Networking (TCCN)*, vol. 10, no. 3, pp. 706-728, Jun. 2024.
 
-22. Runming Yang, Xiaolong Yang, **Jiacheng Wang**, Mu Zhou, Zengshan Tian, and Lingxia Li. "Decimeter level indoor localization using WiFi channel state information," *IEEE Sensors Journal*, vol. 22, no. 6, pp. 4940-4950, Mar. 2022.
+22. S Liang, M Yin, G Sun, J Li, H Li, J Wang, D Niyato, VCM Leung. "Cooperative Communication Via Automated Guided Vehicle and Unmanned Aerial Vehicle: A Distributed Collaborate Beamforming Method," *IEEE Transactions on Intelligent Vehicles*.
+
+23. Kaikai Liu, Zengshan Tian, Ze Li, **Jiacheng Wang**, and Mu Zhou. "HiLoc: Sub-meter level indoor localization using a single access point with distributed antennas in wireless sensor networks," *IEEE Sensors Journal*, vol. 22, no. 6, pp. 4869-4881, Mar. 2022.
+
+24. Runming Yang, Xiaolong Yang, **Jiacheng Wang**, Mu Zhou, Zengshan Tian, and Lingxia Li. "Decimeter level indoor localization using WiFi channel state information," *IEEE Sensors Journal*, vol. 22, no. 6, pp. 4940-4950, Mar. 2022.
 
 ## Conference Papers
 
@@ -60,6 +64,9 @@
 
 6. Yijing Lin, Zhipeng Gao, Hongyang Du, D. Niyato, and **Jiacheng Wang**. "Verifiable and Efficient Semantic Blockchain," In *Proc. IEEE Global Communications Conference (GLOBECOM)*, 2023.
 
+7. Mu Zhou, Bin Wang, Zengshan Tian, **Jiacheng Wang**, Qiankun Zhang. "	
+A case study of cross-floor localization system using hybrid wireless sensing," In *Proc. IEEE Global Communications Conference (GLOBECOM)*, 2017.
+
 ## Book Chapters
 
 1. Yijing Lin, Zhipeng Gao, Hongyang Du, **Jiacheng Wang**, Jiakang Zheng. "Semantic Communication in the Metaverse," chapter in *Wireless Semantic Communications: Concepts, Principles and Challenges*, Wiley, 2025.
@@ -70,4 +77,14 @@
 
 2. **Jiacheng Wang**, Yinqiu Liu, Hongyang Du, Dusit Niyato, Jiawen Kang, Haibo Zhou, and Dong In Kim. "Empowering Wireless Networks with Artificial Intelligence Generated Graph," submitted to *IEEE Network*, 2024.
 
-3. **Jiacheng Wang**, Hongyang Du, Geng Sun, Jiawen Kang, Haibo Zhou, Dusit Niyato, and Jiming Chen. "Optimizing 6G Integrated Sensing and Communications (ISAC) via Expert Networks," submitted to *IEEE Communications Magazine*, 2024.
+3. **Jiacheng Wang**, Hongyang Du, Geng Sun, Jiawen Kang, Haibo Zhou, Dusit Niyato, and Jiming Chen. "Optimizing 6G Integrated Sensing and Communications (ISAC) via Expert Networks," submitted to *IEEE Wireless Communications (Major)*, 2024.
+
+4. Changyuan Zhao, Jiacheng Wang, Ruichen Zhang, Dusit Niyato, Dong In Kim, Hongyang Du. "Signal Detection in Near-field Communication with Unknown Noise Characteristics: A Diffusion Model Method," 2024.
+
+5. Geng Sun, Jiaxu Wu, Long He, **Jiacheng Wang**, Dusit Niyato, Abbas Jamalipour, Shiwen Mao. "JC5A: Service Delay Minimization for Aerial MEC-assisted Industrial Cyber-Physical Systems," 2024.
+
+6. Long He, Geng Sun, Zemin Sun, **Jiacheng Wang**, Hongyang Du, Dusit Niyato, Jiangchuan Liu, Victor Leung. "Space-Air-Ground Integrated MEC-Assisted Industrial Cyber-Physical Systems: An Online Decentralized Optimization Approach," 2024.
+
+7. Wenwen Xie, Geng Sun, Jiahui Li, **Jiacheng Wang**, Hongyang Du, Dusit Niyato, Octavia A Dobre. "Generative AI for Energy Harvesting Internet of Things Network: Fundamental, Applications, and Opportunities," 2024.
+
+8. Geng Sun, Yixian Wang, Dusit Niyato, **Jiacheng Wang**, Xinying Wang, H Vincent Poor, Khaled B Letaief. "Large Language Model (LLM)-enabled Graphs in Dynamic Networking," 2024.
