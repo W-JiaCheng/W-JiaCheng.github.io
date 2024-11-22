@@ -41,9 +41,9 @@ redirect_from:
   * IEEE Vehicular Technology Conference (VTC), 2023-2024
   * IEEE International Conference on Computer Communications (ICCC), 2024
 2. **Conference Organizer:**
-  * Web Chair - IEEE International Conference on Internet of Things (iThings 2023)
-  * Publication Chair - IEEE International Conference on Metaverse (Metaverse 2024)
-  * Committee Member - 21st Huacheng Academician Forum and 4th International Conference on Computer Engineering and Intelligent Control
+  * Web Chair - ["IEEE International Conference on Internet of Things (iThings 2023)"](http://ieee-cybermatics.org/2023/ithings/oc.php)
+  * Publication Chair - ["IEEE International Conference on Metaverse (Metaverse 2024)"](https://www.ieee-smart-world.org/2024/metaverse/cmt.php)
+  * Committee Member - ["21st Huacheng Academician Forum and 4th International Conference on Computer Engineering and Intelligent Control"](https://www.icceic.org/Committee)
 3. **Tutorial Speaker:**
 * ["Generative Artificial Intelligence-empowered Networks: Optimization and Applications"](https://iccc2024.ieee-iccc.org/program/tutorials-0), 2024 IEEE International Conference on Computer Communications (ICCC), August 2024, Hangzhou, China.
 * ["Empowering Networks with GAI: Fundamentals, Methodologies, and Applications"](https://globecom2024.ieee-globecom.org/program/tutorials/thursday-morning-tutorials#TUT17), 2024 IEEE Global Communications Conference, December 2024, Cape Town, South Africa.
