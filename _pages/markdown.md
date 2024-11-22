@@ -81,9 +81,9 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
 
 7. **Jiacheng Wang**, Hongyang Du, Geng Sun, Jiawen Kang, Haibo Zhou, Dusit Niyato, and Jiming Chen. ["Optimizing 6G Integrated Sensing and Communications (ISAC) via Expert Networks,"](https://arxiv.org/pdf/2406.00408) submitted to *IEEE Wireless Communications (Major)*, 2024.
 
-8. Changyuan Zhao, Jiacheng Wang, Ruichen Zhang, Dusit Niyato, Dong In Kim, Hongyang Du. ["Signal Detection in Near-field Communication with Unknown Noise Characteristics: A Diffusion Model Method,"](https://arxiv.org/pdf/2409.14031) 2024.
+8. Changyuan Zhao, **Jiacheng Wang**, Ruichen Zhang, Dusit Niyato, Dong In Kim, Hongyang Du. ["Signal Detection in Near-field Communication with Unknown Noise Characteristics: A Diffusion Model Method,"](https://arxiv.org/pdf/2409.14031) 2024.
 
-9. Jingyang Cao, Mu Zhou, Jiacheng Wang, Guangyuan Liu, Dusit Niyato, Shiwen Mao, Zhu Han, Jiawen Kang. ["A Unified Framework for Underwater Metaverse with Optical Perception,"](https://arxiv.org/pdf/2403.05567) 2024.
+9. Jingyang Cao, Mu Zhou, **Jiacheng Wang**, Guangyuan Liu, Dusit Niyato, Shiwen Mao, Zhu Han, Jiawen Kang. ["A Unified Framework for Underwater Metaverse with Optical Perception,"](https://arxiv.org/pdf/2403.05567) 2024.
 
 10. Geng Sun, Jiaxu Wu, Long He, **Jiacheng Wang**, Dusit Niyato, Abbas Jamalipour, Shiwen Mao. ["JC5A: Service Delay Minimization for Aerial MEC-assisted Industrial Cyber-Physical Systems,"](https://arxiv.org/pdf/2411.04762) 2024.
 
@@ -93,4 +93,4 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
 
 13. Geng Sun, Yixian Wang, Dusit Niyato, **Jiacheng Wang**, Xinying Wang, H Vincent Poor, Khaled B Letaief. ["Large Language Model (LLM)-enabled Graphs in Dynamic Networking,"](https://arxiv.org/pdf/2407.20840) 2024.
 
-14. Junjie Wu, Xuming Fang, Dusit Niyato, Jiacheng Wang, Jingyu Wang. ["Large Language Model (LLM)-enabled Graphs in Dynamic Networking,"](https://arxiv.org/pdf/2407.20840) 2024. ["DRL Optimization Trajectory Generation via Wireless Network Intent-Guided Diffusion Models for Optimizing Resource Allocation"](https://arxiv.org/pdf/2410.14481) 2024.
+14. Junjie Wu, Xuming Fang, Dusit Niyato, **Jiacheng Wang**, Jingyu Wang. ["Large Language Model (LLM)-enabled Graphs in Dynamic Networking,"](https://arxiv.org/pdf/2407.20840) 2024. ["DRL Optimization Trajectory Generation via Wireless Network Intent-Guided Diffusion Models for Optimizing Resource Allocation"](https://arxiv.org/pdf/2410.14481) 2024.
