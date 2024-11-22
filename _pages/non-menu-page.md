@@ -23,10 +23,12 @@ redirect_from:
 * IEEE Communications Surveys & Tutorials (COMST)
 * IEEE Journal on Selected Areas in Communications (JSAC)
 * IEEE Transactions on Wireless Communications (TWC)
+* IEEE Transactions on Communications (TCOM)
 * IEEE Transactions on Mobile Computing (TMC)
 * IEEE Transactions on Information Forensics and Security (TIFS)
 * IEEE Transactions on Cognitive Communications and Networking (TCCN)
 * IEEE Transactions on Vehicular Technology (TVT)
+* IEEE Transactions on Network Science and Engineering (TNSE)
 * IEEE Transactions on Computers (TC)
 * IEEE Wireless Communications Magazine (WCM)
 * IEEE Network
