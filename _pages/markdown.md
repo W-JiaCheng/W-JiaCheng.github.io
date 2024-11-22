@@ -75,8 +75,22 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
 
 ## Ongoing Work
 
-1. **Jiacheng Wang**, Hongyang Du, Yinqiu Liu, Geng Sun, Dusit Niyato, Shiwen Mao, Dong In Kim, and Xuemin (Sherman) Shen. "Generative AI based Secure Wireless Sensing for ISAC Networks," submitted to *IEEE Transactions on Information Forensics and Security (TIFS)*, 2024.
+1. **Jiacheng Wang**, Hongyang Du, Yinqiu Liu, Geng Sun, Dusit Niyato, Shiwen Mao, Dong In Kim, and Xuemin (Sherman) Shen. ["Generative AI based Secure Wireless Sensing for ISAC Networks,"](https://arxiv.org/pdf/2408.11398), submitted to *IEEE Transactions on Information Forensics and Security (TIFS)*, 2024.
 
-2. **Jiacheng Wang**, Yinqiu Liu, Hongyang Du, Dusit Niyato, Jiawen Kang, Haibo Zhou, and Dong In Kim. "Empowering Wireless Networks with Artificial Intelligence Generated Graph," submitted to *IEEE Network*, 2024.
+4. **Jiacheng Wang**, Yinqiu Liu, Hongyang Du, Dusit Niyato, Jiawen Kang, Haibo Zhou, and Dong In Kim. ["Empowering Wireless Networks with Artificial Intelligence Generated Graph,"](https://arxiv.org/pdf/2405.04907), submitted to *IEEE Network*, 2024.
 
-3. **Jiacheng Wang**, Hongyang Du, Geng Sun, Jiawen Kang, Haibo Zhou, Dusit Niyato, and Jiming Chen. "Optimizing 6G Integrated Sensing and Communications (ISAC) via Expert Networks," submitted to *IEEE Communications Magazine*, 2024.
+7. **Jiacheng Wang**, Hongyang Du, Geng Sun, Jiawen Kang, Haibo Zhou, Dusit Niyato, and Jiming Chen. ["Optimizing 6G Integrated Sensing and Communications (ISAC) via Expert Networks,"](https://arxiv.org/pdf/2406.00408) submitted to *IEEE Wireless Communications (Major)*, 2024.
+
+8. Changyuan Zhao, Jiacheng Wang, Ruichen Zhang, Dusit Niyato, Dong In Kim, Hongyang Du. ["Signal Detection in Near-field Communication with Unknown Noise Characteristics: A Diffusion Model Method,"](https://arxiv.org/pdf/2409.14031) 2024.
+
+9. Jingyang Cao, Mu Zhou, Jiacheng Wang, Guangyuan Liu, Dusit Niyato, Shiwen Mao, Zhu Han, Jiawen Kang. ["A Unified Framework for Underwater Metaverse with Optical Perception,"](https://arxiv.org/pdf/2403.05567) 2024.
+
+10. Geng Sun, Jiaxu Wu, Long He, **Jiacheng Wang**, Dusit Niyato, Abbas Jamalipour, Shiwen Mao. ["JC5A: Service Delay Minimization for Aerial MEC-assisted Industrial Cyber-Physical Systems,"](https://arxiv.org/pdf/2411.04762) 2024.
+
+11. Long He, Geng Sun, Zemin Sun, **Jiacheng Wang**, Hongyang Du, Dusit Niyato, Jiangchuan Liu, Victor Leung. ["Space-Air-Ground Integrated MEC-Assisted Industrial Cyber-Physical Systems: An Online Decentralized Optimization Approach,"](https://arxiv.org/pdf/2411.09712) 2024.
+
+12. Wenwen Xie, Geng Sun, Jiahui Li, **Jiacheng Wang**, Hongyang Du, Dusit Niyato, Octavia A Dobre. ["Generative AI for Energy Harvesting Internet of Things Network: Fundamental, Applications, and Opportunities,"](https://arxiv.org/pdf/2408.08496) 2024.
+
+13. Geng Sun, Yixian Wang, Dusit Niyato, **Jiacheng Wang**, Xinying Wang, H Vincent Poor, Khaled B Letaief. ["Large Language Model (LLM)-enabled Graphs in Dynamic Networking,"](https://arxiv.org/pdf/2407.20840) 2024.
+
+14. Junjie Wu, Xuming Fang, Dusit Niyato, Jiacheng Wang, Jingyu Wang. ["Large Language Model (LLM)-enabled Graphs in Dynamic Networking,"](https://arxiv.org/pdf/2407.20840) 2024. ["DRL Optimization Trajectory Generation via Wireless Network Intent-Guided Diffusion Models for Optimizing Resource Allocation"](https://arxiv.org/pdf/2410.14481) 2024.
