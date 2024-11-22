@@ -22,27 +22,28 @@ redirect_from:
 ## Journal Reviewer
 * IEEE Communications Surveys & Tutorials (COMST)
 * IEEE Journal on Selected Areas in Communications (JSAC)
+* IEEE Transactions on Wireless Communications (TWC)
 * IEEE Transactions on Mobile Computing (TMC)
 * IEEE Transactions on Information Forensics and Security (TIFS)
-* IEEE Transactions on Computers (TC)
-* IEEE Transactions on Wireless Communications (TWC)
-* IEEE Transactions on Vehicular Technology (TVT)
 * IEEE Transactions on Cognitive Communications and Networking (TCCN)
+* IEEE Transactions on Vehicular Technology (TVT)
+* IEEE Transactions on Computers (TC)
 * IEEE Wireless Communications Magazine (WCM)
 * IEEE Network
 * IEEE Wireless Communications Letters (WCL)
 
 ## Conference Service
 1. **Technical Program Committee (TPC) Member:**
-  * IEEE International Conference on Communications (ICC)
-  * IEEE Global Communications Conference (GLOBECOM)
-  * IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)
-  * IEEE Wireless Communications and Networking Conference (WCNC)
-  * IEEE Vehicular Technology Conference (VTC)
-  * IEEE International Conference on Computer Communications (ICCC)
+  * IEEE International Conference on Communications (ICC), 2024-2025
+  * IEEE Global Communications Conference (GLOBECOM), 2023-2024
+  * IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), 2023-2024
+  * IEEE Wireless Communications and Networking Conference (WCNC), 2023-2025
+  * IEEE Vehicular Technology Conference (VTC), 2023-2024
+  * IEEE International Conference on Computer Communications (ICCC), 2024
 2. **Conference Organizer:**
   * Web Chair - IEEE International Conference on Internet of Things (iThings 2023)
   * Publication Chair - IEEE International Conference on Metaverse (Metaverse 2024)
   * Committee Member - 21st Huacheng Academician Forum and 4th International Conference on Computer Engineering and Intelligent Control
 3. **Tutorial Speaker:**
-* "Generative Artificial Intelligence-empowered Networks: Optimization and Applications", 2024 IEEE International Conference on Computer Communications (ICCC), August 2024, Hangzhou, China.
+* ["Generative Artificial Intelligence-empowered Networks: Optimization and Applications"](https://iccc2024.ieee-iccc.org/program/tutorials-0), 2024 IEEE International Conference on Computer Communications (ICCC), August 2024, Hangzhou, China.
+* ["Empowering Networks with GAI: Fundamentals, Methodologies, and Applications"](https://globecom2024.ieee-globecom.org/program/tutorials/thursday-morning-tutorials#TUT17), 2024 IEEE Global Communications Conference, December 2024, Cape Town, South Africa.
