@@ -11,24 +11,24 @@ redirect_from:
 I am a Postdoctoral Research Fellow at the College of Computing and Data Science, Nanyang Technological University (NTU), Singapore, working under the supervision of Prof. [Dusit Niyato](https://personal.ntu.edu.sg/dniyato/). My research interests primarily focus on wireless sensing, Integrated Sensing and Communications (ISAC), generative AI, and semantic communications. Prior to my current position, I received my Ph.D. degree from the School of Communications and Information Engineering, Chongqing University of Posts and Telecommunications in 2022. From 2021 to 2022, I was a visiting student at NTU's College of Computing and Data Science. My research primarily centers around **Wireless Sensing and Generative AI**, including
 
 1. Wireless Sensing:
-   - Signal parameter estimation for wireless sensing
+   - Signal processing for wireless sensing
    - CSI-based human detection, localization, and activity recognition
    - Integrated sensing and communications (ISAC)
 
 2. Generative AI (GenAI) for wireless sensing and communications:
    - Generative AI-assisted signal processing for wireless sensing
    - Generative AI-enabled Semantic communications
-   - GenAI-based edge intelligence and network optimization
+   - GenAI-based edge intelligence and network optimization for ISAC
 
 ---
 
 News
 ======
-1. **Call for Papers:** IEEE Transactions on Cognitive Communications and Networking Special Issue on ["Artificial General Intelligence for Low-Altitude Economy Networking"](https://www.comsoc.org/publications/journals/ieee-tccn/cfp/artificial-general-intelligence-low-altitude-economy-networking)
-2. **Call for Papers:** IEEE Open Journal of the Communications Society Special Issue on ["Generative AI and Large Language Models Enhanced 6G Wireless Communication and Sensing"](https://www.comsoc.org/publications/journals/ieee-ojcoms/cfp/generative-ai-and-large-language-models-enhanced-6g-wireless)
-3. **Call for Papers:** IEEE Networking Letters Special Issue on ["Generative AI and Large Language Models-enabled Edge Intelligence"](https://www.comsoc.org/publications/journals/ieee-lnet/cfp/generative-ai-and-large-language-models-enabled-edge)
-4. **Call for Papers:** IEEE IoT Magazine Special Issue on ["Applications of Large Language Models in Internet of Things"](https://www.comsoc.org/publications/magazines/ieee-internet-things-magazine/cfp/applications-large-language-models)
-5. **Call for Papers:** MDPI Electronics Special Issue on ["Network Security Management in Heterogeneous Networks"](https://www.mdpi.com/journal/electronics/special_issues/IL4N9306O0)
+1. **Call for Papers:** IEEE Transactions on Cognitive Communications and Networking Special Issue on ["Artificial General Intelligence for Low-Altitude Economy Networking"](https://www.comsoc.org/publications/journals/ieee-tccn/cfp/artificial-general-intelligence-low-altitude-economy-networking), lead guest editor.
+2. **Call for Papers:** IEEE Open Journal of the Communications Society Special Issue on ["Generative AI and Large Language Models Enhanced 6G Wireless Communication and Sensing"](https://www.comsoc.org/publications/journals/ieee-ojcoms/cfp/generative-ai-and-large-language-models-enhanced-6g-wireless), lead guest editor.
+3. **Call for Papers:** IEEE Networking Letters Special Issue on ["Generative AI and Large Language Models-enabled Edge Intelligence"](https://www.comsoc.org/publications/journals/ieee-lnet/cfp/generative-ai-and-large-language-models-enabled-edge), guest editor.
+4. **Call for Papers:** IEEE IoT Magazine Special Issue on ["Applications of Large Language Models in Internet of Things"](https://www.comsoc.org/publications/magazines/ieee-internet-things-magazine/cfp/applications-large-language-models), guest editor.
+5. **Call for Papers:** MDPI Electronics Special Issue on ["Network Security Management in Heterogeneous Networks"](https://www.mdpi.com/journal/electronics/special_issues/IL4N9306O0), guest editor.
 
 
 Selected First-author Papers
