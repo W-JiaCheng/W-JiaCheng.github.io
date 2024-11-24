@@ -18,7 +18,7 @@ I am a Postdoctoral Research Fellow at the College of Computing and Data Science
 2. Generative AI (GenAI) for wireless sensing and communications:
    - Generative AI-assisted signal processing for wireless sensing
    - Generative AI-enabled Semantic communications
-   - GenAI-based edge intelligence and network optimization for ISAC
+   - Generative AI-based edge intelligence and network optimization for ISAC
 
 ---
 
