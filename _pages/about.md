@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Research Fellow at the College of Computing and Data Science, Nanyang Technological University (NTU), Singapore, working under the supervision of Prof. [Dusit Niyato](https://personal.ntu.edu.sg/dniyato/). My research interests primarily focus on wireless sensing, Integrated Sensing and Communications (ISAC), generative AI, and semantic communications. Prior to my current position, I received my Ph.D. degree from the School of Communications and Information Engineering, Chongqing University of Posts and Telecommunications in 2022. From 2021 to 2022, I was a visiting student at NTU's College of Computing and Data Science. My research primarily centers around **Wireless Sensing and Generative AI**, including
+I am a Postdoctoral Research Fellow at the College of Computing and Data Science, Nanyang Technological University (NTU), Singapore, working under the supervision of Prof. [Dusit Niyato](https://personal.ntu.edu.sg/dniyato/). My research interests primarily focus on wireless sensing, Integrated Sensing and Communications (ISAC), generative AI, and semantic communications. Before my current position, I received my Ph.D. degree (Supervised by [Prof. Zengshan Tian](https://scholar.google.com/citations?user=XkAhc2AAAAAJ&hl=zh-CN&oi=ao)) from the School of Communications and Information Engineering, Chongqing University of Posts and Telecommunications in 2022. From 2021 to 2022, I was a visiting student at the College of Computing and Data Science, NTU, Singapore. My research primarily centers around **Wireless Sensing and Generative AI**, including
 
 1. Wireless Sensing:
    - Signal processing for wireless sensing
