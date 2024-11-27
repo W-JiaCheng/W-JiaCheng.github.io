@@ -69,7 +69,7 @@ Selected Collaborative Papers
 
 2. Hongyang Du, **Jiacheng Wang**, Dusit Niyato, Jiawen Kang, Zehui Xiong, Junshan Zhang, and Xuemin (Sherman) Shen. ["Semantic Communications for Wireless Sensing: RIS-aided Encoding and Self-supervised Decoding,"](https://ieeexplore.ieee.org/document/10163877) **IEEE Journal on Selected Areas in Communications (JSAC)**, vol. 41, no. 8, pp. 2547-2562, Aug. 2023.
 
-3. Nguyen Van Huynh, **Jiacheng Wang**, Hongyang Du, Dinh Thai Hoang, Dusit Niyato, Diep N Nguyen, Dong In Kim, Khaled B Letaief. ["Generative AI for physical layer communications: A survey,"](https://ieeexplore.ieee.org/document/10490142) **IEEE Transactions on Cognitive Communications and Networking (TCCN)**, vol. 10, no. 3, pp. 706-728, Jun. 2024.
+3. Nguyen Van Huynh, **Jiacheng Wang**, Hongyang Du, Dinh Thai Hoang, Dusit Niyato, Diep N Nguyen, Dong In Kim, Khaled B Letaief. ["Generative AI for physical layer communications: A survey,"](https://ieeexplore.ieee.org/document/10490142) **IEEE Transactions on Cognitive Communications and Networking (TCCN), invite paper**, vol. 10, no. 3, pp. 706-728, Jun. 2024.
 
 4. Hongyang Du, **Jiacheng Wang**, Dusit Niyato, Jiawen Kang, Zehui Xiong, Mohsen Guizani, and Dong In Kim. ["Rethinking Wireless Communication Security in Semantic Internet of Things,"](https://ieeexplore.ieee.org/document/10183798) **IEEE Wireless Communications**, vol. 30, no. 3, pp. 36-43, Nov. 2023.
 
