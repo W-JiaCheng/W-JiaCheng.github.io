@@ -14,15 +14,12 @@ Education
 ======
 * Ph.D. in Communications and Information Engineering, Chongqing University of Posts and Telecommunications, 2022
 * M.S. in Communications and Information Engineering, Chongqing University of Posts and Telecommunications, 2018
-* Visiting Student, College of Computing and Data Science, Nanyang Technological University, 2021-2022
-* Postdoctoral Fellow, College of Computing and Data Science, Nanyang Technological University, 2022-present
+* Visiting Student (Supervisor: Prof. Dusit Niyato), College of Computing and Data Science, NTU, 2021-2022
 
 Work experience
 ======
 *Postdoctoral Fellow*
-  * Nanyang Technological University
-  * College of Computing and Data Science
-  * Supervisor: Prof. Dusit Niyato
+  * Postdoctoral Fellow (Supervisor: Prof. Dusit Niyato), College of Computing and Data Science, NTU, 2022-present
 
 Research Interests
 ======
@@ -56,16 +53,21 @@ Academic Service
 
 Editorial Service
 ------
+* Lead Contributor, IEEE ComSoc Best Readings "Generative AI and Large Language Models for Networking"
+* Lead Guest Editor, IEEE Transactions on Cognitive Communications and Networking Special Issue on “Artificial General Intelligence for Low-Altitude Economy Networking”, lead guest editor.
 * Lead Guest Editor, IEEE Open Journal of the Communications Society Special Issue on "Generative AI and Large Language Models Enhanced 6G Wireless Communication and Sensing"
 * Guest Editor, IEEE Networking Letters Special Issue on "Generative AI and Large Language Models-enabled Edge Intelligence"
 * Guest Editor, IEEE IoT Magazine Special Issue on "Applications of Large Language Models in Internet of Things"
 * Guest Editor, MDPI Electronics Special Issue on "Network Security Management in Heterogeneous Networks"
 
-Professional Service
+Journal Reviewer
 ------
-* Lead Contributor, IEEE ComSoc Best Readings "Generative AI and Large Language Models for Networking"
 * Reviewer for IEEE COMST, JSAC, TMC, TIFS, TC, TWC, TVT, TCCN, WCM, NETWORK, WCL
+
+Conference Service
+------
+* Tutorial Speaker, “Empowering Networks with GAI: Fundamentals, Methodologies, and Applications”, 2024 IEEE Global Communications Conference, December 2024, Cape Town, South Africa.
+* Tutorial Speaker, “Generative Artificial Intelligence-empowered Networks: Optimization and Applications”, 2024 IEEE International Conference on Computer Communications (ICCC), August 2024, Hangzhou, China.
 * TPC Member for IEEE ICC, Globecom, PIMRC, WCNC, VTC, ICCC
-* Tutorial Speaker, "Generative Artificial Intelligence-empowered Networks: Optimization and Applications," 2024 IEEE ICCC
 * Web Chair, IEEE International Conference on Internet of Things (iThings 2023)
 * Publication Chair, IEEE International Conference on Metaverse (Metaverse 2024)
