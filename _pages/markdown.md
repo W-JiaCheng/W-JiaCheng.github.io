@@ -97,4 +97,4 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
 
 13. Geng Sun, Yixian Wang, Dusit Niyato, **Jiacheng Wang**, Xinying Wang, H Vincent Poor, Khaled B Letaief. ["Large Language Model (LLM)-enabled Graphs in Dynamic Networking,"](https://arxiv.org/pdf/2407.20840) 2024.
 
-14. Junjie Wu, Xuming Fang, Dusit Niyato, **Jiacheng Wang**, Jingyu Wang. ["Large Language Model (LLM)-enabled Graphs in Dynamic Networking,"](https://arxiv.org/pdf/2407.20840) 2024. ["DRL Optimization Trajectory Generation via Wireless Network Intent-Guided Diffusion Models for Optimizing Resource Allocation"](https://arxiv.org/pdf/2410.14481) 2024.
+14. Junjie Wu, Xuming Fang, Dusit Niyato, **Jiacheng Wang**, Jingyu Wang. ["DRL Optimization Trajectory Generation via Wireless Network Intent-Guided Diffusion Models for Optimizing Resource Allocation"](https://arxiv.org/pdf/2410.14481) 2024.
