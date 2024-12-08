@@ -77,7 +77,7 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
 
 1. Yijing Lin, Zhipeng Gao, Hongyang Du, **Jiacheng Wang**, Jiakang Zheng. "Semantic Communication in the Metaverse," chapter in *Wireless Semantic Communications: Concepts, Principles and Challenges*, Wiley, 2025.
 
-## Some ongoing Work
+## Some Ongoing Works
 
 1. **Jiacheng Wang**, Hongyang Du, Yinqiu Liu, Geng Sun, Dusit Niyato, Shiwen Mao, Dong In Kim, and Xuemin (Sherman) Shen. ["Generative AI based Secure Wireless Sensing for ISAC Networks,"](https://arxiv.org/pdf/2408.11398), submitted to *IEEE Transactions on Information Forensics and Security (TIFS)*, 2024.
 
