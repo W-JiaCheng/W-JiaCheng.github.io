@@ -8,6 +8,7 @@ redirect_from:
 ---
 ## Editorial Service
 1. **Lead Guest Editor:**
+   - IEEE Wireless Communications Special Issue on ["Toward Practical Low-Altitude Economy Networking: Standardization, Testbeds, and Real-world Deployments"](https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp/toward-practical-low-altitude-economy)
    - IEEE Transactions on Cognitive Communications and Networking Special Issue on ["Artificial General Intelligence for Low-Altitude Economy Networking"](https://www.comsoc.org/publications/journals/ieee-tccn/cfp/artificial-general-intelligence-low-altitude-economy-networking)
    - IEEE Open Journal of the Communications Society Special Issue on ["Generative AI and Large Language Models Enhanced 6G Wireless Communication and Sensing"](https://www.comsoc.org/publications/journals/ieee-ojcoms/cfp/generative-ai-and-large-language-models-enhanced-6g-wireless)
     
