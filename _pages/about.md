@@ -68,7 +68,7 @@ Selected Collaborative Papers
 ======
 1. Hongyang Du, **Jiacheng Wang**, Dusit Niyato, Jiawen Kang, Zehui Xiong, and Dong In Kim. ["AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for Information Sharing,"](https://ieeexplore.ieee.org/document/10158526) **IEEE Journal on Selected Areas in Communications (JSAC)**, vol. 41, no. 9, pp. 2981-2997, Sep. 2023.
 
-2. 林怡静, 任金科, **王嘉诚(通信)**, 马楠, 张晔, 崔曙光. ["面向多用户语义知识库高效可信联邦遗忘方案,"]中国科学: 信息科学.
+2. 林怡静, 任金科, **王嘉诚(通信)**, 马楠, 张晔, 崔曙光. 面向多用户语义知识库高效可信联邦遗忘方案, 中国科学: 信息科学, 2025.
 
 3. Hongyang Du, **Jiacheng Wang**, Dusit Niyato, Jiawen Kang, Zehui Xiong, Junshan Zhang, and Xuemin (Sherman) Shen. ["Semantic Communications for Wireless Sensing: RIS-aided Encoding and Self-supervised Decoding,"](https://ieeexplore.ieee.org/document/10163877) **IEEE Journal on Selected Areas in Communications (JSAC)**, vol. 41, no. 8, pp. 2547-2562, Aug. 2023.
 
