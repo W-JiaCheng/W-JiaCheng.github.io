@@ -68,19 +68,21 @@ Selected Collaborative Papers
 ======
 1. Hongyang Du, **Jiacheng Wang**, Dusit Niyato, Jiawen Kang, Zehui Xiong, and Dong In Kim. ["AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for Information Sharing,"](https://ieeexplore.ieee.org/document/10158526) **IEEE Journal on Selected Areas in Communications (JSAC)**, vol. 41, no. 9, pp. 2981-2997, Sep. 2023.
 
-2. Hongyang Du, **Jiacheng Wang**, Dusit Niyato, Jiawen Kang, Zehui Xiong, Junshan Zhang, and Xuemin (Sherman) Shen. ["Semantic Communications for Wireless Sensing: RIS-aided Encoding and Self-supervised Decoding,"](https://ieeexplore.ieee.org/document/10163877) **IEEE Journal on Selected Areas in Communications (JSAC)**, vol. 41, no. 8, pp. 2547-2562, Aug. 2023.
+2. 林怡静, 任金科, **王嘉诚(通信)**, 马楠, 张晔, 崔曙光. ["面向多用户语义知识库高效可信联邦遗忘方案,"]中国科学: 信息科学.
 
-3. Nguyen Van Huynh, **Jiacheng Wang**, Hongyang Du, Dinh Thai Hoang, Dusit Niyato, Diep N Nguyen, Dong In Kim, Khaled B Letaief. ["Generative AI for physical layer communications: A survey,"](https://ieeexplore.ieee.org/document/10490142) **IEEE Transactions on Cognitive Communications and Networking (TCCN)**, vol. 10, no. 3, pp. 706-728, Jun. 2024, **invite paper**.
+3. Hongyang Du, **Jiacheng Wang**, Dusit Niyato, Jiawen Kang, Zehui Xiong, Junshan Zhang, and Xuemin (Sherman) Shen. ["Semantic Communications for Wireless Sensing: RIS-aided Encoding and Self-supervised Decoding,"](https://ieeexplore.ieee.org/document/10163877) **IEEE Journal on Selected Areas in Communications (JSAC)**, vol. 41, no. 8, pp. 2547-2562, Aug. 2023.
 
-4. Hongyang Du, **Jiacheng Wang**, Dusit Niyato, Jiawen Kang, Zehui Xiong, Mohsen Guizani, and Dong In Kim. ["Rethinking Wireless Communication Security in Semantic Internet of Things,"](https://ieeexplore.ieee.org/document/10183798) **IEEE Wireless Communications**, vol. 30, no. 3, pp. 36-43, Nov. 2023.
+4. Nguyen Van Huynh, **Jiacheng Wang**, Hongyang Du, Dinh Thai Hoang, Dusit Niyato, Diep N Nguyen, Dong In Kim, Khaled B Letaief. ["Generative AI for physical layer communications: A survey,"](https://ieeexplore.ieee.org/document/10490142) **IEEE Transactions on Cognitive Communications and Networking (TCCN)**, vol. 10, no. 3, pp. 706-728, Jun. 2024, **invite paper**.
 
-5. Chuang Zhang, Geng Sun, Jiahui Li, Qingqing Wu, **Jiacheng Wang**, Dusit Niyato, Yuanwei Liu. ["Multi-objective Aerial Collaborative Secure Communication Optimization via Generative Diffusion Model-enabled Deep Reinforcement Learning,"](https://arxiv.org/pdf/2407.08914) *IEEE Transactions on Mobile Computing (TMC)*, accepted, 2024.
+5. Hongyang Du, **Jiacheng Wang**, Dusit Niyato, Jiawen Kang, Zehui Xiong, Mohsen Guizani, and Dong In Kim. ["Rethinking Wireless Communication Security in Semantic Internet of Things,"](https://ieeexplore.ieee.org/document/10183798) **IEEE Wireless Communications**, vol. 30, no. 3, pp. 36-43, Nov. 2023.
 
-6. Hongyang Du, **Jiacheng Wang**, Dusit Niyato, Jiawen Kang, Zehui Xiong, Xuemin Shen, Dong In Kim. ["Exploring attention-aware network resource allocation for customized metaverse services,"](https://ieeexplore.ieee.org/document/9999298) **IEEE Network**, vol. 37, no. 6, pp. 166-175, Jun. 2023.
+6. Chuang Zhang, Geng Sun, Jiahui Li, Qingqing Wu, **Jiacheng Wang**, Dusit Niyato, Yuanwei Liu. ["Multi-objective Aerial Collaborative Secure Communication Optimization via Generative Diffusion Model-enabled Deep Reinforcement Learning,"](https://arxiv.org/pdf/2407.08914) *IEEE Transactions on Mobile Computing (TMC)*, accepted, 2024.
 
-7. Kaikai Liu, Zengshan Tian, Ze Li, **Jiacheng Wang**, Mu Zhou. ["HiLoc: Sub-meter level indoor localization using a single access point with distributed antennas in wireless sensor networks,"](https://ieeexplore.ieee.org/document/9312625) **IEEE Sensors Journal**, vol. 22, no. 6, pp. 4869-4881, Mar. 2022.
+7. Hongyang Du, **Jiacheng Wang**, Dusit Niyato, Jiawen Kang, Zehui Xiong, Xuemin Shen, Dong In Kim. ["Exploring attention-aware network resource allocation for customized metaverse services,"](https://ieeexplore.ieee.org/document/9999298) **IEEE Network**, vol. 37, no. 6, pp. 166-175, Jun. 2023.
 
-8. Shuang Liang, Minghao Yin, Geng Sun, Jiahui Li, Hongjuan Li, **Jiacheng Wang**, Dusit Niyato, Victor CM Leung. ["Cooperative Communication Via Automated Guided Vehicle and Unmanned Aerial Vehicle: A Distributed Collaborate Beamforming Method,"](https://ieeexplore.ieee.org/document/10660542) **IEEE Transactions on Intelligent Vehicles**, Early Access, 2024.
+8. Kaikai Liu, Zengshan Tian, Ze Li, **Jiacheng Wang**, Mu Zhou. ["HiLoc: Sub-meter level indoor localization using a single access point with distributed antennas in wireless sensor networks,"](https://ieeexplore.ieee.org/document/9312625) **IEEE Sensors Journal**, vol. 22, no. 6, pp. 4869-4881, Mar. 2022.
+
+9. Shuang Liang, Minghao Yin, Geng Sun, Jiahui Li, Hongjuan Li, **Jiacheng Wang**, Dusit Niyato, Victor CM Leung. ["Cooperative Communication Via Automated Guided Vehicle and Unmanned Aerial Vehicle: A Distributed Collaborate Beamforming Method,"](https://ieeexplore.ieee.org/document/10660542) **IEEE Transactions on Intelligent Vehicles**, Early Access, 2024.
 
 
 
