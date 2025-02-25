@@ -56,6 +56,7 @@ Editorial Service
 * Lead Contributor, IEEE ComSoc Best Readings "Generative AI and Large Language Models for Networking"
 * Lead Guest Editor, IEEE Transactions on Cognitive Communications and Networking Special Issue on “Artificial General Intelligence for Low-Altitude Economy Networking”, lead guest editor.
 * Lead Guest Editor, IEEE Open Journal of the Communications Society Special Issue on "Generative AI and Large Language Models Enhanced 6G Wireless Communication and Sensing"
+* Guest Editor, IEEE Transactions on Network Science and Engineering Special Issue on "Security and Privacy in Low Altitude Networking"
 * Guest Editor, IEEE Networking Letters Special Issue on "Generative AI and Large Language Models-enabled Edge Intelligence"
 * Guest Editor, IEEE IoT Magazine Special Issue on "Applications of Large Language Models in Internet of Things"
 * Guest Editor, MDPI Electronics Special Issue on "Network Security Management in Heterogeneous Networks"
