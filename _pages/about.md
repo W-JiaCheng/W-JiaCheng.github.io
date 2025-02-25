@@ -24,12 +24,13 @@ I am a Postdoctoral Research Fellow at the College of Computing and Data Science
 
 News
 ======
-1. **Call for Papers:** IEEE Wireless Communications Special Issue on ["Toward Practical Low-Altitude Economy Networking: Standardization, Testbeds, and Real-world Deployments"](https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp/toward-practical-low-altitude-economy), **lead guest editor**.
-2. **Call for Papers:** IEEE Transactions on Cognitive Communications and Networking Special Issue on ["Artificial General Intelligence for Low-Altitude Economy Networking"](https://www.comsoc.org/publications/journals/ieee-tccn/cfp/artificial-general-intelligence-low-altitude-economy-networking), **lead guest editor**.
-3. **Call for Papers:** IEEE Open Journal of the Communications Society Special Issue on ["Generative AI and Large Language Models Enhanced 6G Wireless Communication and Sensing"](https://www.comsoc.org/publications/journals/ieee-ojcoms/cfp/generative-ai-and-large-language-models-enhanced-6g-wireless), **lead guest editor**.
-4. **Call for Papers:** IEEE Networking Letters Special Issue on ["Generative AI and Large Language Models-enabled Edge Intelligence"](https://www.comsoc.org/publications/journals/ieee-lnet/cfp/generative-ai-and-large-language-models-enabled-edge), guest editor.
-5. **Call for Papers:** IEEE IoT Magazine Special Issue on ["Applications of Large Language Models in Internet of Things"](https://www.comsoc.org/publications/magazines/ieee-internet-things-magazine/cfp/applications-large-language-models), guest editor.
-6. **Call for Papers:** MDPI Electronics Special Issue on ["Network Security Management in Heterogeneous Networks"](https://www.mdpi.com/journal/electronics/special_issues/IL4N9306O0), guest editor.
+1. **Call for Papers:** IEEE Transactions on Network Science and Engineering Special Issue on ["Security and Privacy in Low Altitude Networking"](https://www.comsoc.org/publications/journals/ieee-tnse/cfp/security-and-privacy-low-altitude-networking), **guest editor**.
+2. **Call for Papers:** IEEE Wireless Communications Special Issue on ["Toward Practical Low-Altitude Economy Networking: Standardization, Testbeds, and Real-world Deployments"](https://www.comsoc.org/publications/magazines/ieee-wireless-communications/cfp/toward-practical-low-altitude-economy), **lead guest editor**.
+3. **Call for Papers:** IEEE Transactions on Cognitive Communications and Networking Special Issue on ["Artificial General Intelligence for Low-Altitude Economy Networking"](https://www.comsoc.org/publications/journals/ieee-tccn/cfp/artificial-general-intelligence-low-altitude-economy-networking), **lead guest editor**.
+4. **Call for Papers:** IEEE Open Journal of the Communications Society Special Issue on ["Generative AI and Large Language Models Enhanced 6G Wireless Communication and Sensing"](https://www.comsoc.org/publications/journals/ieee-ojcoms/cfp/generative-ai-and-large-language-models-enhanced-6g-wireless), **lead guest editor**.
+5. **Call for Papers:** IEEE Networking Letters Special Issue on ["Generative AI and Large Language Models-enabled Edge Intelligence"](https://www.comsoc.org/publications/journals/ieee-lnet/cfp/generative-ai-and-large-language-models-enabled-edge), guest editor.
+6. **Call for Papers:** IEEE IoT Magazine Special Issue on ["Applications of Large Language Models in Internet of Things"](https://www.comsoc.org/publications/magazines/ieee-internet-things-magazine/cfp/applications-large-language-models), guest editor.
+7. **Call for Papers:** MDPI Electronics Special Issue on ["Network Security Management in Heterogeneous Networks"](https://www.mdpi.com/journal/electronics/special_issues/IL4N9306O0), guest editor.
 
 
 Selected First-author Papers
