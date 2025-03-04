@@ -13,6 +13,7 @@ redirect_from:
    - IEEE Open Journal of the Communications Society Special Issue on ["Generative AI and Large Language Models Enhanced 6G Wireless Communication and Sensing"](https://www.comsoc.org/publications/journals/ieee-ojcoms/cfp/generative-ai-and-large-language-models-enhanced-6g-wireless)
     
 2. **Guest Editor:**
+   - IEEE Transactions on Network Science and Engineering Special Issue on ["Security and Privacy in Low Altitude Networking"](https://www.comsoc.org/publications/journals/ieee-tnse/cfp/security-and-privacy-low-altitude-networking)
    - IEEE Networking Letters Special Issue on ["Generative AI and Large Language Models-enabled Edge Intelligence"](https://www.comsoc.org/publications/journals/ieee-lnet/cfp/generative-ai-and-large-language-models-enabled-edge)
    - IEEE IoT Magazine Special Issue on ["Applications of Large Language Models in Internet of Things"](https://www.comsoc.org/publications/magazines/ieee-internet-things-magazine/cfp/applications-large-language-models)
    - MDPI Electronics Special Issue on ["Network Security Management in Heterogeneous Networks"](https://www.mdpi.com/journal/electronics/special_issues/IL4N9306O0)
