@@ -39,7 +39,7 @@ redirect_from:
 ## Conference Service
 1. **Technical Program Committee (TPC) Member:**
   * IEEE International Conference on Communications (ICC), 2024-2025
-  * IEEE Global Communications Conference (GLOBECOM), 2023-2024
+  * IEEE Global Communications Conference (GLOBECOM), 2023-2025
   * IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), 2023-2024
   * IEEE Wireless Communications and Networking Conference (WCNC), 2023-2025
   * IEEE Vehicular Technology Conference (VTC), 2023-2024
