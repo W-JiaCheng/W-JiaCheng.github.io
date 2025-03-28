@@ -79,7 +79,9 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
 
 ## Some Ongoing Works
 
-1. **Jiacheng Wang**, Hongyang Du, Yinqiu Liu, Geng Sun, Dusit Niyato, Shiwen Mao, Dong In Kim, and Xuemin (Sherman) Shen. ["Generative AI based Secure Wireless Sensing for ISAC Networks,"](https://arxiv.org/pdf/2408.11398), submitted to *IEEE Transactions on Information Forensics and Security (TIFS)*, 2024.
+1. **Jiacheng Wang**, Changyuan Zhao, Hongyang Du, Geng Sun, Jiawen Kang, Shiwen Mao, Dusit Niyato, and Dong In Kim. ["Generative AI Enabled Robust Data Augmentation for Wireless Sensing in ISAC Networks,"](https://arxiv.org/pdf/2502.12622), submitted to *IEEE Journal on Selected Areas in Communications (JSAC)*, 2025.
+  
+3. **Jiacheng Wang**, Hongyang Du, Yinqiu Liu, Geng Sun, Dusit Niyato, Shiwen Mao, Dong In Kim, and Xuemin (Sherman) Shen. ["Generative AI based Secure Wireless Sensing for ISAC Networks,"](https://arxiv.org/pdf/2408.11398), submitted to *IEEE Transactions on Information Forensics and Security (TIFS)*, major, 2024.
 
 4. **Jiacheng Wang**, Yinqiu Liu, Hongyang Du, Dusit Niyato, Jiawen Kang, Haibo Zhou, and Dong In Kim. ["Empowering Wireless Networks with Artificial Intelligence Generated Graph,"](https://arxiv.org/pdf/2405.04907), submitted to *IEEE Network*, 2024.
 
