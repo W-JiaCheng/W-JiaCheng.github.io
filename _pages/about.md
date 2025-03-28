@@ -30,7 +30,7 @@ News
 4. **Call for Papers:** IEEE Transactions on Network Science and Engineering Special Issue on ["Security and Privacy in Low Altitude Networking"](https://www.comsoc.org/publications/journals/ieee-tnse/cfp/security-and-privacy-low-altitude-networking), **guest editor**.
 5. **Call for Papers:** IEEE Networking Letters Special Issue on ["Generative AI and Large Language Models-enabled Edge Intelligence"](https://www.comsoc.org/publications/journals/ieee-lnet/cfp/generative-ai-and-large-language-models-enabled-edge), guest editor.
 6. **Call for Papers:** IEEE IoT Magazine Special Issue on ["Applications of Large Language Models in Internet of Things"](https://www.comsoc.org/publications/magazines/ieee-internet-things-magazine/cfp/applications-large-language-models), guest editor.
-7. **Call for Papers:** MDPI Electronics Special Issue on ["Network Security Management in Heterogeneous Networks"](https://www.mdpi.com/journal/electronics/special_issues/IL4N9306O0), guest editor.
+7. **Call for Papers:** MDPI Electronics Special Issue on ["Network Security Management in Heterogeneous Networks"](https://www.mdpi.com/topics/O92O74724S), guest editor.
 
 
 Selected First-author Papers
