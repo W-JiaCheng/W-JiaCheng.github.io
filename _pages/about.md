@@ -50,21 +50,23 @@ Selected First-author Papers
 
 7. **Jiacheng Wang**, Hongyang Du, Dusit Niyato, Zehui Xiong, Jiawen Kang, and Shiwen Mao. ["Guiding AI-Generated Digital Content with Wireless Perception,"](https://ieeexplore.ieee.org/document/10515205) **IEEE Wireless Communications**, vol. 31, no. 4, Aug. 2024.
 
-8. **Jiacheng Wang**, Hongyang Du, Dusit Niyato, Jiawen Kang, Shuguang (Robert) Cui, Xuemin (Sherman) Shen, and Ping Zhang. ["Generative AI for Integrated Sensing and Communication: Insights from the Physical Layer Perspective,"](https://ieeexplore.ieee.org/document/10599123) **IEEE Wireless Communications**, Early Access, Jul. 2024.
+8. **Jiacheng Wang**, Hongyang Du, Dusit Niyato, Jiawen Kang, Shuguang (Robert) Cui, Xuemin (Sherman) Shen, and Ping Zhang. ["Generative AI for Integrated Sensing and Communication: Insights from the Physical Layer Perspective,"](https://ieeexplore.ieee.org/document/10599123) **IEEE Wireless Communications**, early access, Jul. 2024.
 
-9. **Jiacheng Wang**, Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, Dong In Kim, and Khaled B. Letaief. ["Toward Scalable Generative AI via Mixture of Experts in Mobile Edge Networks,"](https://arxiv.org/pdf/2402.06942) **IEEE Wireless Communications**, Accepted, Jul. 2024.
+9. **Jiacheng Wang**, Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, Dong In Kim, and Khaled B. Letaief. ["Toward Scalable Generative AI via Mixture of Experts in Mobile Edge Networks,"](https://arxiv.org/pdf/2402.06942) **IEEE Wireless Communications**, accepted, Jul. 2024.
 
-10. **Jiacheng Wang**, Zengshan Tian, Xiaolong Yang, and Mu Zhou. ["CSI-Based ToF Estimation for Reflection Path Under the TTW Scenario,"](https://ieeexplore.ieee.org/document/9336064) **IEEE Wireless Communications Letters (WCL)**, vol. 10, no. 5, pp. 1010-1013, Jan. 2021.
+10. **Jiacheng Wang**, Hongyang Du, Geng Sun, Jiawen Kang, Haibo Zhou, Dusit Niyato, and Jiming Chen. "Optimizing 6G Integrated Sensing and Communications (ISAC) via Expert Networks," *IEEE Wireless Communications*, accepted, 2025.
 
-11. **Jiacheng Wang**, Zengshan Tian, Xiaolong Yang, and Mu Zhou. ["CSI Component Reconstruction-Based AoA Estimation for Subtle Human-induced Reflection Under the TTW Scenario,"](https://ieeexplore.ieee.org/document/8732406) **IEEE Communications Letters**, vol. 23, no. 8, pp. 1393-1396, Jun. 2019.
+11. **Jiacheng Wang**, Zengshan Tian, Xiaolong Yang, and Mu Zhou. ["CSI-Based ToF Estimation for Reflection Path Under the TTW Scenario,"](https://ieeexplore.ieee.org/document/9336064) **IEEE Wireless Communications Letters (WCL)**, vol. 10, no. 5, pp. 1010-1013, Jan. 2021.
 
-12. **Jiacheng Wang**, Zengshan Tian, Xiaolong Yang, and Mu Zhou. ["TWPalo: Through-the-wall Passive Localization of Moving Human with Wi-Fi,"](https://www.sciencedirect.com/science/article/pii/S0140366419310576) **Computer Communications**, vol. 157, pp. 284-297, May. 2020.
+12. **Jiacheng Wang**, Zengshan Tian, Xiaolong Yang, and Mu Zhou. ["CSI Component Reconstruction-Based AoA Estimation for Subtle Human-induced Reflection Under the TTW Scenario,"](https://ieeexplore.ieee.org/document/8732406) **IEEE Communications Letters**, vol. 23, no. 8, pp. 1393-1396, Jun. 2019.
 
-13. **Jiacheng Wang**, Zengshan Tian, Xiaolong Yang, Mu Zhou, and Yuan She. ["TWPad: Through the Wall Passive Human Detection Based on Joint Hypothesis Statistical Test,"](https://ieeexplore.ieee.org/document/9500695). In Proc. IEEE International Conference on Communications (ICC), Jun. 2021.
+13. **Jiacheng Wang**, Zengshan Tian, Xiaolong Yang, and Mu Zhou. ["TWPalo: Through-the-wall Passive Localization of Moving Human with Wi-Fi,"](https://www.sciencedirect.com/science/article/pii/S0140366419310576) **Computer Communications**, vol. 157, pp. 284-297, May. 2020.
 
-14. **Jiacheng Wang**, Zengshan Tian, Xiaolong Yang, and Mu Zhou. ["TWPalo: Through-the-Wall Passive Localization of Moving Human with Wi-Fi,"](https://ieeexplore.ieee.org/document/9013293) In Proc. IEEE Global Communications Conference (GLOBECOM), Dec. 2019. 
+14. **Jiacheng Wang**, Zengshan Tian, Xiaolong Yang, Mu Zhou, and Yuan She. ["TWPad: Through the Wall Passive Human Detection Based on Joint Hypothesis Statistical Test,"](https://ieeexplore.ieee.org/document/9500695). In Proc. IEEE International Conference on Communications (ICC), Jun. 2021.
 
-15. **Jiacheng Wang**, Zengshan Tian, Xiaolong Yang, Mu Zhou, Jiamin Huang, and Dusit Niyato. ["Dynamic Target Acceleration Estimation Using CSI,"](https://ieeexplore.ieee.org/document/9860560) In Proc. IEEE Vehicular Technology Conference: (VTC2022-Spring), Jun. 2022.
+15. **Jiacheng Wang**, Zengshan Tian, Xiaolong Yang, and Mu Zhou. ["TWPalo: Through-the-Wall Passive Localization of Moving Human with Wi-Fi,"](https://ieeexplore.ieee.org/document/9013293) In Proc. IEEE Global Communications Conference (GLOBECOM), Dec. 2019. 
+
+16. **Jiacheng Wang**, Zengshan Tian, Xiaolong Yang, Mu Zhou, Jiamin Huang, and Dusit Niyato. ["Dynamic Target Acceleration Estimation Using CSI,"](https://ieeexplore.ieee.org/document/9860560) In Proc. IEEE Vehicular Technology Conference: (VTC2022-Spring), Jun. 2022.
 
 Selected Collaborative Papers
 ======
