@@ -46,7 +46,7 @@ Selected First-author Papers
 
 5. **Jiacheng Wang**, Hongyang Du, Dusit Niyato, Jiawen Kang, Zehui Xiong, Deepu Rajan, Shiwen Mao, and Xuemin (Sherman) Shen. ["A Unified Framework for Guiding Generative AI with Wireless Perception in Resource Constrained Mobile Edge Networks,"](https://ieeexplore.ieee.org/document/10472660) **IEEE Transactions on Mobile Computing (TMC)**, vol. 23, no. 11, pp. 10344-10360, Nov. 2024.
 
-6. **Jiacheng Wang**, Hongyang Du, Yinqiu Liu, Geng Sun, Dusit Niyato, Shiwen Mao, Dong In Kim, and Xuemin (Sherman) Shen. ["Generative AI based Secure Wireless Sensing for ISAC Networks,"](https://ieeexplore.ieee.org/document/11004012), submitted to *IEEE Transactions on Information Forensics and Security (TIFS)*, early access, 2025.
+6. **Jiacheng Wang**, Hongyang Du, Yinqiu Liu, Geng Sun, Dusit Niyato, Shiwen Mao, Dong In Kim, and Xuemin (Sherman) Shen. ["Generative AI based Secure Wireless Sensing for ISAC Networks,"](https://ieeexplore.ieee.org/document/11004012), submitted to **IEEE Transactions on Information Forensics and Security (TIFS)**, early access, 2025.
 
 7. **Jiacheng Wang**, Zengshan Tian, Mu Zhou, Jie Wang, Xiaolong Yang, and Xin Liu. ["Leveraging Hypothesis Testing for CSI Based Passive Human Intrusion Direction Detection,"](https://ieeexplore.ieee.org/document/9462330) **IEEE Transactions on Vehicular Technology (TVT)**, vol. 70, no. 8, pp. 7749-7763, Aug. 2021.
 
