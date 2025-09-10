@@ -37,7 +37,7 @@ News
 
 Selected First-author Papers
 ======
-1.**Jiacheng Wang**, Changyuan Zhao, Hongyang Du, Geng Sun, Jiawen Kang, Shiwen Mao, Dusit Niyato, and Dong In Kim. ["Generative AI enabled robust data augmentation for wireless sensing in ISAC networks,"](https://arxiv.org/pdf/2502.12622) **IEEE Journal on Selected Areas in Communications (JSAC)**, accepted, 2025.
+  1.**Jiacheng Wang**, Changyuan Zhao, Hongyang Du, Geng Sun, Jiawen Kang, Shiwen Mao, Dusit Niyato, and Dong In Kim. ["Generative AI enabled robust data augmentation for wireless sensing in ISAC networks,"](https://arxiv.org/pdf/2502.12622) **IEEE Journal on Selected Areas in Communications (JSAC)**, accepted, 2025.
 
 2. **Jiacheng Wang**, Hongyang Du, Dusit Niyato, Zehui Xiong, Jiawen Kang, Bo Ai, Zhu Han, and Dong In Kim. ["Generative Artificial Intelligence Assisted Wireless Sensing: Human Flow Detection in Practical Communication Environments,"](https://ieeexplore.ieee.org/document/10557650) **IEEE Journal on Selected Areas in Communications (JSAC)**, accepted, 2024.
 
